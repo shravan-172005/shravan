@@ -1,1 +1,2 @@
-# shravan
+# Audio and Silence Detection and Removal Using Python
+This Python-based project focuses on detecting and eliminating silent portions from audio files using libraries such as Pydub, Librosa, and NumPy. By analyzing amplitude thresholds, it accurately identifies and removes silence, making audio content more concise. This technique is especially useful in applications like podcast editing, speech recognition, and music processing, where it improves efficiency, enhances user experience, and reduces overall file size.
