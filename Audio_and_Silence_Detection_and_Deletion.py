@@ -1,6 +1,6 @@
 import os 
 import argparse 
-from pydub import AudioSegment 
+from pydub import AudioSegment
 from pydub.silence import detect_nonsilent 
 
 class AudioProcessor: 
